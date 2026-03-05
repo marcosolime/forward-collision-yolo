@@ -1,6 +1,8 @@
 # Forward Collision Warning – ADAS Demo
 
-![Forward Collision Demo](cover.jpeg)
+<p align="center">
+    <img src="cover.jpeg" width="60%">
+</p>
 
 ## Overview
 
