@@ -1,0 +1,8 @@
+# Ignore input videos
+input/*
+
+# Ignore output results
+output/*
+
+# Ignore YOLO weights
+yolov8n.pt
